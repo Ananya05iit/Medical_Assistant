@@ -1,1 +1,5 @@
 # Medical_Assistant
+To run this code download the my-react-app.zip and unzip this file. After that open it in terminal and run it with the commands "npm i" and then let it get installed then give the command "npm start". This will open the website on localhost:3000.
+The website has frontend from reactjs. The login, signin and authentication pages are done with firebase. 
+Machine learning models are developed on google colab and their have been uploaded here. They are to be integrated in the backend using api but I couldnt complete it due to lack of time. The testing of ML models is visible in the jupyter notebook. The process in my website is to enter the relevant data for heart, breast cancer and pneumonia diagnosis and then this data will be sent to the backend server where the ML model will give the output.
+I have also tried to integrate a drone delivery system with my website for quick supply of medicines and blood and organ donations. For that I redirect the user to a website hosted onrender. Its a website I developed during another college hackathon - AI Fusion. 
